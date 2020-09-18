@@ -21,6 +21,6 @@ The correlation coefficient between the data of
 
 1st-2nd point = 0.945, 2nd-3rd = 0.886, 3rd-4th = 0.992, 1st-4th = 0.916.
 
-The plots are also available in the repository.
+The plots are also available in combinedplot.png in the repository.
 
 These high values of correlation coefficient is a clear indication of how strongly connected the data is, and hence can be approximated.
