@@ -1,9 +1,9 @@
 # Rainfall-Prediction
 The RBF file works on any .nc file.
 
-Specify the number of clusters you would like to use, by default it is set to 100.
+Specify the number of clusters you would like to use, by default it is set to 100 [ Assuming 2 gaussians would suffice to model the distribution of per week rainfall ].
 
-The output is of 52x1 [ Assuming a unique temperature distribution for each of 52 weeks of a year ]  dimension which gives us the per-week distribution of the data.
+The input is the average, maximum and minimum value of humidity, precipitation and temperature for that week. The output is the predicted average rainfall of that week.
 
 Now the code is set to run.
 
